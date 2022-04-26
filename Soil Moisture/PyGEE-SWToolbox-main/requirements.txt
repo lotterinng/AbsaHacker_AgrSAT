@@ -1,0 +1,11 @@
+earthengine_api>=0.1.230
+eemont
+geemap
+geetools
+ipyfilechooser
+matplotlib
+ipywidgets
+pandas
+hydrafloods
+plotly
+scikit-learn
